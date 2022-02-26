@@ -46,7 +46,7 @@ module.exports = {
         try {
             switch(options.getSubcommand()) {
                 case "play" : {
-                    client.distube.playVoiceChannel( VoiceChannel, options.getString("query"),  { textChannel: channel, member: member});
+                    client.distube.play( VoiceChannel, options.getString("query"),  { textChannel: channel, member: member});
                     return interaction.reply({content: "🎼 **Request Received**"});
                 }
                 case "volume" : {
