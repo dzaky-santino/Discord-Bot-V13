@@ -17,6 +17,8 @@ client.distube = new DisTube(client, {
     emitAddSongWhenCreatingQueue: false,
     plugins: [new SpotifyPlugin()]
 });
+process.on('unhandledRejection', error => { console.error()});
+
 module.exports = client;
 
 require("../Systems/GiveawaySys")(client);
