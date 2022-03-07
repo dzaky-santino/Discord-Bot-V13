@@ -1,4 +1,5 @@
 {
     "Token": "TOKEN BOT",
-    "Database": "MONGODB DATABASE"
+    "Database": "MONGODB DATABASE",
+    "OwnerID": "ID Pemilik Bot"
 }
