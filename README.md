@@ -9,7 +9,7 @@
 
 `node index.js / node .` - Memulai Projek
 
-**Jika ada pertanyaan atau butuh bantuan, silahkan join server discord**
+**Jika ada pertanyaan atau butuh bantuan, silahkan join server discord** \
 https://discord.com/invite/2x39Q2vZpb \
 https://dsc.gg/santino
 
@@ -46,7 +46,7 @@ Fill Token, Database, OwnerID in Structures/config.json
 
 `node index.js / node .` - Start Project.
 
-**If you have any questions or need help, please join the discord server**
+**If you have any questions or need help, please join the discord server** \
 https://discord.com/invite/2x39Q2vZpb \
 https://dsc.gg/santino
 
